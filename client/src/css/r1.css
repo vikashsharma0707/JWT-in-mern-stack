@@ -1,0 +1,16 @@
+
+#footer
+{
+    width: 100%;
+    padding: 10px;
+    background-color: lightblue;
+
+}
+
+#loginpage
+{
+    width: 50%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: auto;
+}
