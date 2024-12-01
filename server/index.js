@@ -4,7 +4,7 @@ const mongoose= require("mongoose");
 var cors = require('cors');
 const  bodyParser = require('body-parser')
 const userRouter= require("./routes/userRouter");
-mongoose.connect("mongodb://127.0.0.1:27017/jwt12pm").then(()=>{
+mongoose.connect("mongodb://127.0.0.1:27017/jwt").then(()=>{
     console.log("Data base Connected!")
 })
 
